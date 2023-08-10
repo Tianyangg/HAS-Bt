@@ -7,8 +7,8 @@ The is the code repository for paper:
 
 Feature-to-label MIL model is demonstrated in 
 
-  ./network/MultiAttentionNoFe.py
+- ./network/MultiAttentionNoFe.py
   
 Image-to-label MIL model is demonstrated in 
 
-  ./network/ImageMIL.py
+- ./network/ImageMIL.py
