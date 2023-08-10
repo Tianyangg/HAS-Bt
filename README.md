@@ -7,11 +7,12 @@ The is the code repository for the paper:
 *A Multi-center performance assessment for automated histopathological classification and grading of glioma using whole slide image*
 Lei Jin*, Tianyang Sun, Xi Liu, Zehong Cao, Yan Liu, Hong Chen, Yixin Ma, Jun Zhang, Yaping Zou, Yingchao Liu*, Feng Shi*, Dinggang Shen*, Jinsong Wu
 
+![image](figures/schematic.png)
 ---
 
 ## Link to paper and Authors
 
-![image](figures/schematic.png)
+// to be specified
 
 ## Abstract
 
