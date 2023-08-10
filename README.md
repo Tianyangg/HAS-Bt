@@ -26,4 +26,6 @@ Image-to-label MIL model is demonstrated in
 
 - .HAS_slide/network/ImageMIL.py
 
+## Resource Availability
+
 **Data related to this study including WSIs, and patch images are available from the lead contact upon reasonable request. For any request please contact the corresponding author**
