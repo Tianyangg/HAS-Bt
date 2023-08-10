@@ -11,8 +11,10 @@ Lei Jin*, Tianyang Sun, Xi Liu, Zehong Cao, Yan Liu, Hong Chen, Yixin Ma, Jun Zh
 
 Feature-to-label MIL model is demonstrated in 
 
-- ./network/MultiAttentionNoFe.py
+- .HAS_slide/network/MultiAttentionNoFe.py
   
 Image-to-label MIL model is demonstrated in 
 
-- ./network/ImageMIL.py
+- .HAS_slide/network/ImageMIL.py
+
+**Data related to this study including WSIs, and patch images are available from the lead contact upon reasonable request. For any request please contact the corresponding author**
