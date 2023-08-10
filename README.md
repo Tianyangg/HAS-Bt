@@ -1,5 +1,6 @@
 # HAS-Bt
 **HAS-Bt** stands for Histopathology Auxilliary System for Brain Tumour classification 
+
 ![image] (https://github.com/Tianyangg/HAS-Bt/blob/main/figures/schematic.png)
 
 The is the code repository for the paper: 
