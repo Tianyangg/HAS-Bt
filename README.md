@@ -16,6 +16,8 @@ Lei Jin*, Tianyang Sun, Xi Liu, Zehong Cao, Yan Liu, Hong Chen, Yixin Ma, Jun Zh
 
 ## Abstract
 
+// update once accepted
+
 ## Table of Contents
 
 Feature-to-label MIL model is demonstrated in 
